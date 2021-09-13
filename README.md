@@ -4,6 +4,7 @@ Lungs Selector<br>
 -
 Run: python3 lungseg.py
 -
-Web demo: https://lungssegmentation.herokuapp.com/
+Web demo: 
+https://lungssegmentation.herokuapp.com/
 -
 huynq@isi.com.vn - http://anticovid.ml
