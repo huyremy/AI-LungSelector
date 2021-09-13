@@ -1,4 +1,4 @@
-# AI-LungSelector
+# AI-Lungs-Selector
 Lungs Selector<br>
 ![Sau](https://github.com/huyremy/AI-LungSelector/blob/main/test.png)
 -----------
